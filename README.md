@@ -1,5 +1,5 @@
 omi@tf-laptop 
-![alt text](https://github.com/Wootermelon/dotifles/blob/main/rice.png?raw=true)
+![alt text](https://github.com/Wootermelon/dotfiles/blob/main/rice.png?raw=true)
 ## Operating Syste)
 ### Config files: .bashrc .zshrc .xinitrc
 
