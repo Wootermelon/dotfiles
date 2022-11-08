@@ -1,0 +1,1 @@
+/home/omi/.config/awesome/rc.lua
