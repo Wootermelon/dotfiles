@@ -1,8 +1,7 @@
 omi@tf-laptop 
 
 ## Operating System
-Config files: .bashrc .zshrc .xinitrc
-==============
+### Config files: .bashrc .zshrc .xinitrc
 
 OS: Arch Linux x86_64 
 
@@ -29,14 +28,12 @@ GPU: Intel Tiger Lake-LP GT2 [UHD Graphics G4]
 Memory: 7694MiB 
 
 ## Window Manager
-Config files: rc.lua theme.lua
-==============
+### Config files: rc.lua theme.lua
 Theme: [Powerarrow-dark](https://github.com/esn89/powerarrow-dark)
 Wallpapers are in the theme's root directory and are named wallX.png where X is a number
 
 ## IDE
-Config files: config.lua
-==============
+### Config files: config.lua
 [LunarVim](https://github.com/LunarVim/LunarVim)
 
 ## Pretty packages
