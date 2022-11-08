@@ -1,6 +1,6 @@
 omi@tf-laptop 
-
-## Operating System
+![alt text](https://github.com/Wootermelon/dotifles/blob/main/rice.png?raw=true)
+## Operating Syste)
 ### Config files: .bashrc .zshrc .xinitrc
 
 OS: Arch Linux x86_64 
@@ -20,10 +20,6 @@ Theme: Gruvbox-Material-Dark [GTK2/3]
 Icons: Gruvbox-Material-Dark [GTK2/3] 
 
 Terminal: terminator 
-
-CPU: 11th Gen Intel i3-1115G4 (4) @ 4.100GHz 
-
-GPU: Intel Tiger Lake-LP GT2 [UHD Graphics G4] 
 
 Memory: 7694MiB 
 
