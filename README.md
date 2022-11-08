@@ -1,6 +1,6 @@
 omi@tf-laptop 
 ![alt text](https://github.com/Wootermelon/dotfiles/blob/main/rice.png?raw=true)
-## Operating Syste)
+## Operating System
 ### Config files: .bashrc .zshrc .xinitrc
 
 OS: Arch Linux x86_64 
@@ -26,16 +26,21 @@ Memory: 7694MiB
 ## Window Manager
 ### Config files: rc.lua theme.lua
 Theme: [Powerarrow-dark](https://github.com/esn89/powerarrow-dark)
+
 Wallpapers are in the theme's root directory and are named wallX.png where X is a number
 
 ## IDE
-### Config files: config.lua
+### Config file: config.lua
 [LunarVim](https://github.com/LunarVim/LunarVim)
+
 
 ## Pretty packages
 
-lolcat (pacman)
+[lolcat](https://archlinux.org/packages/community/any/lolcat/): Pipe any command to it for LGBT pride
 
-[colorls](https://aur.archlinux.org/packages/ruby-colorls)
+[colorls](https://aur.archlinux.org/packages/ruby-colorls): Colorful LS
 
+[powerlevel10k](https://github.com/romkatv/powerlevel10k): Beautiful CLI theme
+
+[LXAppearance](https://archlinux.org/packages/community/x86_64/lxappearance/): Modify system theme
 
